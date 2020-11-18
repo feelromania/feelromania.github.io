@@ -21,3 +21,4 @@ pipelines:
             - bundle install
             - bundle exec jekyll build
             - bundle exec htmlproofer ./_site --url-ignore "/#.*/"
+            - git push https://$githubtoken@github.com/feelromania/feelromania.github.io.git master
