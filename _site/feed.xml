@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-18T16:00:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/11/18/Onboarding-Guide.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-11-18T15:26:18+02:00</published><updated>2020-11-18T15:26:18+02:00</updated><id>http://localhost:4000/jekyll/update/2020/11/18/Onboarding-Guide</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/11/18/Onboarding-Guide.html">&lt;h2 id=&quot;wave-hi-ionela-&quot;&gt;:wave: Hi, Ionela !&lt;/h2&gt;
+
+&lt;p&gt;Welcome to LightFilm Studio. We’re glad you’re here!&lt;/p&gt;
+
+&lt;p&gt;I’ve put together this onboarding plan to help you get up to speed in your new role as a on . Feel free to reach out if you have any questions &lt;img src=&quot;https://lightfilmstudio.atlassian.net/wiki/s/-1586177596/6452/fa6ac66a178963389fdc5bb0ca85952fb4482a5a/_/images/icons/emoticons/smile.png&quot; alt=&quot;(smile)&quot; /&gt;​&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Quick links&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Technical support&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Payroll and benefits&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;People directory&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;compass-guiding-thoughts&quot;&gt;:compass: Guiding thoughts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Take time to learn.&lt;/strong&gt; Don’t get sucked into the minutia of decision-making or project involvement too early - there will be plenty of time for that later. In your first 30 days, try to focus on getting comfortable and learning how things work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Invest in relationships.&lt;/strong&gt; By day 60, you’ll be in execution mode. In your first two months, spend as much time as you can getting to know people and forming relationships.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Don’t be afraid to ask.&lt;/strong&gt; No one expects you to know how things at work right away. Take advantage of that and ask for help when you need it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;handshake-meet-your-team&quot;&gt;:handshake: Meet your team&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Who&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;What they can help with&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;seedling-your-first-week&quot;&gt;:seedling: Your first week&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Tuesday&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Thursday&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Friday&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;star2-90-day-milestones&quot;&gt;:star2: 90-day milestones&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Outcome&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Steps&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;sparkling_heart-helpful-resources&quot;&gt;:sparkling_heart: Helpful resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Slack channels&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Internal glossary&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Asking for help&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">:wave: Hi, Ionela !</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/11/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-11-18T15:26:18+02:00</published><updated>2020-11-18T15:26:18+02:00</updated><id>http://localhost:4000/jekyll/update/2020/11/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/11/18/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Poc Kiosk Rest Api</title><link href="http://localhost:4000/2020/10/07/PoC-Kiosk-REST-API.html" rel="alternate" type="text/html" title="Poc Kiosk Rest Api" /><published>2020-10-07T00:00:00+03:00</published><updated>2020-10-07T00:00:00+03:00</updated><id>http://localhost:4000/2020/10/07/PoC-Kiosk-REST-API</id><content type="html" xml:base="http://localhost:4000/2020/10/07/PoC-Kiosk-REST-API.html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;PoC Kiosk REST API&lt;/title&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;PoC Kiosk REST API&lt;/h1&gt;
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Any one not specified in here will return 404&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;table-wrap&quot;&gt;&lt;table class=&quot;wrapped confluenceTable&quot; style=&quot;line-height: 1.42857;&quot;&gt;&lt;colgroup&gt;&lt;col&gt;&lt;col&gt;&lt;col&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class=&quot;confluenceTh&quot;&gt;API&lt;/th&gt;&lt;th colspan=&quot;1&quot; class=&quot;confluenceTh&quot;&gt;VERB&lt;/th&gt;&lt;th class=&quot;confluenceTh&quot;&gt;Description&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/yQRgAg&quot; rel=&quot;nofollow&quot;&gt;admin/config&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;GET&lt;/p&gt;&lt;p&gt;POST&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Retrieve a bundled zip containing both Metascan and Metadefender configurations. &lt;span&gt;Import a bundled MS &amp;amp; MD package, or a (zipped) MD package, or a MD config json&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/u4LDAg&quot; rel=&quot;nofollow&quot;&gt;admin/existfile&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;check whether file exists&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/54CSAw&quot; rel=&quot;nofollow&quot;&gt;admin/license&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/6YCSAw&quot; rel=&quot;nofollow&quot;&gt;admin/license/*&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;POST&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/sYe0Ag&quot; rel=&quot;nofollow&quot;&gt;admin/mdconfig&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;GET&lt;/p&gt;&lt;p&gt;POST&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Get/Update Kiosk configuration&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/spaces/MDM/pages/208699558/GET+Supported+Central+Mgmt+feature+list&quot; rel=&quot;nofollow&quot;&gt;admin/mgmt/features&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Retrieve a list of supported Central Mgmt features&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;admin/prop/*&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;POST&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;properties...name the props you want to modify&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;admin/reload/*&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;reload config (specify the config?)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/Q4buAg&quot; rel=&quot;nofollow&quot;&gt;events&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Get Event logs from mongDB&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/spaces/MDM/pages/143497262/GET+FileLogs&quot; rel=&quot;nofollow&quot;&gt;filelogs/{startimestamp}/{endtimestamp}&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;generate &amp;amp; get history of file processed in csv&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;hash/*&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;get the hash value of a specific file&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;importprofiles&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;POST&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Used when importing an array of profiles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;language&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;language/*&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;p&gt;POST&lt;/p&gt;&lt;p&gt;DELETE&lt;/p&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;specify the language?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;language/names&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/601263350/POST+Login&quot; data-linked-resource-id=&quot;601263350&quot; data-linked-resource-version=&quot;3&quot; data-linked-resource-type=&quot;page&quot;&gt;login&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;POST&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Login a user to the WebMC&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/601263350/POST+Login&quot; data-linked-resource-id=&quot;601263350&quot; data-linked-resource-version=&quot;3&quot; data-linked-resource-type=&quot;page&quot;&gt;logout&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;POST&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Logout a user to the WebMC&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;profile&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;GET&lt;/p&gt;&lt;p&gt;POST&lt;/p&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;p&gt;GET: Return a profile document with expanded post action&lt;/p&gt;&lt;p&gt;POST: Adds a new profile&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;profile/id&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;GET&lt;/p&gt;&lt;p&gt;POST&lt;/p&gt;&lt;p&gt;DELETE&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;GET: get the profile for the specified ID&lt;/p&gt;&lt;p&gt;POST: update the profile with the specified ID&lt;/p&gt;&lt;p&gt;DELETE: remove the profile with the specified ID&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;recentsessions&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;recentsessions/*/*&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;specify the session?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;session/*/*/*/*/*&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;this can be used with 5,4,3,2,or 1 parameters&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/spaces/MDM/pages/145065051/GET+SessionLogs&quot; rel=&quot;nofollow&quot;&gt;sessionlogs/{starttimestamp}/{endtimestamp}&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;generate &amp;amp; get history of sessions in csv&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/spaces/MDM/pages/206864821/GET+File+type+history&quot; rel=&quot;nofollow&quot;&gt;stat/filetypes&lt;/a&gt;&lt;br&gt;stat/filetypes/{last X hours}&lt;/p&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Get the total file types seen in a time range&lt;br&gt;Default range is 24 hours&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/kgDb&quot; rel=&quot;nofollow&quot;&gt;stat/sessionshistory&lt;br&gt;s&lt;/a&gt;tat/sessionshistory/{last X hours}&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Get the total file counts from sessions in an hourly time range&lt;br&gt;Default range is 24 hours&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/spaces/MDM/pages/207388875/GET+Statistic+report+for+Central+Mgmt&quot; rel=&quot;nofollow&quot;&gt;stat/status&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Get statistics to report to Central Mgmt&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/_oHG&quot; rel=&quot;nofollow&quot;&gt;user&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Get the list of users on the domain and on the local machine.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/601329474/GET+users&quot; data-linked-resource-id=&quot;601329474&quot; data-linked-resource-version=&quot;1&quot; data-linked-resource-type=&quot;page&quot;&gt;users&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Get the list of local users for WebMC access&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/601204354&quot; data-linked-resource-id=&quot;601204354&quot; data-linked-resource-version=&quot;4&quot; data-linked-resource-type=&quot;page&quot;&gt;users/first&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;POST&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Create the first admin user&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/_oHG&quot; rel=&quot;nofollow&quot;&gt;user/refresh&lt;/a&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;refresh the domain user list (uses WMI)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;&lt;a href=&quot;https://opswat.atlassian.net/wiki/x/eAFuAg&quot; rel=&quot;nofollow&quot;&gt;verbose_debug&lt;/a&gt;&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;GET&lt;/td&gt;&lt;td colspan=&quot;1&quot; class=&quot;confluenceTd&quot;&gt;Download verbose debug log of Kiosk&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;h2&gt;Attachments&lt;/h2&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><summary type="html">PoC Kiosk REST API PoC Kiosk REST API Any one not specified in here will return 404APIVERBDescriptionadmin/configGETPOSTRetrieve a bundled zip containing both Metascan and Metadefender configurations. Import a bundled MS &amp;amp; MD package, or a (zipped) MD package, or a MD config jsonadmin/existfileGETcheck whether file existsadmin/licenseGETadmin/license/*POSTadmin/mdconfigGETPOSTGet/Update Kiosk configurationadmin/mgmt/featuresGETRetrieve a list of supported Central Mgmt featuresadmin/prop/*POSTproperties...name the props you want to modifyadmin/reload/*GETreload config (specify the config?)eventsGETGet Event logs from mongDBfilelogs/{startimestamp}/{endtimestamp}GETgenerate &amp;amp; get history of file processed in csvhash/*GETget the hash value of a specific fileimportprofilesPOSTUsed when importing an array of profileslanguageGETlanguage/*POSTDELETEspecify the language?language/namesGETloginPOSTLogin a user to the WebMClogoutPOSTLogout a user to the WebMCprofileGETPOSTGET: Return a profile document with expanded post actionPOST: Adds a new profileprofile/idGETPOSTDELETEGET: get the profile for the specified IDPOST: update the profile with the specified IDDELETE: remove the profile with the specified IDrecentsessionsGETrecentsessions/*/*GETspecify the session?session/*/*/*/*/*GETthis can be used with 5,4,3,2,or 1 parameterssessionlogs/{starttimestamp}/{endtimestamp}GETgenerate &amp;amp; get history of sessions in csvstat/filetypesstat/filetypes/{last X hours}GETGet the total file types seen in a time rangeDefault range is 24 hoursstat/sessionshistorystat/sessionshistory/{last X hours}GETGet the total file counts from sessions in an hourly time rangeDefault range is 24 hoursstat/statusGETGet statistics to report to Central MgmtuserGETGet the list of users on the domain and on the local machine.usersGETGet the list of local users for WebMC accessusers/firstPOSTCreate the first admin useruser/refreshGETrefresh the domain user list (uses WMI)verbose_debugGETDownload verbose debug log of Kiosk</summary></entry><entry><title type="html">Poc Metadefender _ email (v4)</title><link href="http://localhost:4000/2020/07/07/PoC-MetaDefender-_-Email-(v4).html" rel="alternate" type="text/html" title="Poc Metadefender _ email (v4)" /><published>2020-07-07T00:00:00+03:00</published><updated>2020-07-07T00:00:00+03:00</updated><id>http://localhost:4000/2020/07/07/PoC-MetaDefender%20_%20Email-(v4)</id><content type="html" xml:base="http://localhost:4000/2020/07/07/PoC-MetaDefender-_-Email-(v4).html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;PoC MetaDefender / Email (v4)&lt;/title&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;PoC MetaDefender / Email (v4)&lt;/h1&gt;
+&lt;div&gt;&lt;h2 id=&quot;PoCMetaDefender/Email(v4)-AboutThisGuide&quot;&gt;About This Guide&lt;/h2&gt;&lt;p&gt;This guide is intended to provide the information you need to:&lt;/p&gt;&lt;ul&gt;&lt;li class=&quot;external-link&quot;&gt;&lt;p class=&quot;auto-cursor-target&quot;&gt;Install, configure, and manage MetaDefender Email Gateway Security v4.x.&lt;/p&gt;&lt;div class=&quot;confluence-information-macro confluence-information-macro-note conf-macro output-block&quot; data-hasbody=&quot;true&quot; data-macro-name=&quot;note&quot; data-macro-id=&quot;912760a7-c5d5-481d-9e1d-92b6f6ec8ccb&quot;&gt;&lt;p class=&quot;title&quot;&gt;MetaDefender Email v3 users&lt;/p&gt;&lt;span class=&quot;aui-icon aui-icon-small aui-iconfont-warning confluence-information-macro-icon&quot;&gt; &lt;/span&gt;&lt;div class=&quot;confluence-information-macro-body&quot;&gt;When using MetaDefender Email v3, refer to &lt;a href=&quot;https://onlinehelp.opswat.com/corev3/8._Metadefender___Email.html&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;MetaDefender Email v3 user guide&lt;/a&gt;. In case of migrating from MetaDefender Email v3 to MetaDefender Email Gateway Security v4 see &lt;a href=&quot;/wiki/spaces/MDM/pages/151024454/%5BEMAIL4%5D+2.5+Migrating+from+MetaDefender+Email+v3&quot; data-linked-resource-id=&quot;151024454&quot; data-linked-resource-version=&quot;39&quot; data-linked-resource-type=&quot;page&quot;&gt;[EMAIL4] 2.5 Migrating from MetaDefender Email v3&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Learn about new and updated features, and bug fixes on each MetaDefender Email Gateway Security release (i.e. each product version's release notes).&lt;/li&gt;&lt;li&gt;Learn about frequently asked questions and additional concepts through our library of knowledge base articles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;While we offer the option to download this guide to a PDF file, it is optimized for online browser viewing. OPSWAT updates the online version of the guide regularly on an &quot;as needed&quot; basis. &amp;#160;By viewing the document online, you are assured that you are always seeing the most recent and most comprehensive version of the guide.&lt;/p&gt;&lt;h2 id=&quot;PoCMetaDefender/Email(v4)-AboutMetaDefenderEmailGatewaySecurity&quot;&gt;About MetaDefender Email Gateway Security&lt;/h2&gt;&lt;h3 id=&quot;PoCMetaDefender/Email(v4)-SecondLayerofDefenseforYourEmailSecurityGateway&quot;&gt;Second Layer of Defense for Your Email Security Gateway&lt;/h3&gt;&lt;p&gt;Email security gateways, although offering tremendous&amp;#160;protection, are&amp;#160;not perfect. MetaDefender Email Gateway Security enhances existing email security gateways by offering additional protection with more than 30 anti-malware engines (leveraging both heuristics and signature-based detection) and&amp;#160;Deep Content Disarm and Reconstruction (Deep CDR) to combat increasingly popular document-based or image-based attacks.&amp;#160;&lt;/p&gt;&lt;h3 id=&quot;PoCMetaDefender/Email(v4)-KeyFeatures&quot;&gt;Key Features&lt;/h3&gt;&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;&lt;span style=&quot;line-height: 1.42857;&quot;&gt;Prevent &lt;/span&gt;&lt;span style=&quot;line-height: 1.42857;&quot;&gt;with email sanitization&lt;/span&gt;&lt;span style=&quot;line-height: 1.42857;&quot;&gt;&amp;#160;using&amp;#160;&lt;/span&gt;&lt;a href=&quot;https://onlinehelp.opswat.com/cdr/&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;Deep Content Disarm and Reconstruction&lt;/a&gt; (Deep CDR)&lt;/li&gt;&lt;li&gt;Detect and prevent more threats by scanning with&amp;#160;more than&amp;#160;&lt;a href=&quot;https://www.opswat.com/products/metadefender/core/multi-scanning&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;30 leading anti-malware engines&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(0,10,18);&quot;&gt;Prevent potential data breaches using&amp;#160;&lt;span style=&quot;color: rgb(0,10,18);&quot;&gt;&lt;a href=&quot;https://www.opswat.com/technologies/proactive-data-loss-prevention&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;Proactive Data Loss Prevention&lt;/a&gt; (Proactive&amp;#160;DLP)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Leverage&amp;#160;&lt;a href=&quot;https://www.opswat.com/heuristics&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;heuristic&lt;/a&gt;&amp;#160;analysis to detect more unknown and targeted attacks&lt;/li&gt;&lt;li&gt;Decrease detection time of outbreaks&lt;/li&gt;&lt;li&gt;Easily integrate with existing email security layer&lt;/li&gt;&lt;li&gt;Real-time monitoring threats&amp;#160;&lt;/li&gt;&lt;li&gt;Real-time alert and monitoring&lt;/li&gt;&lt;li&gt;Schedule report&lt;/li&gt;&lt;li&gt;High performance&lt;/li&gt;&lt;li&gt;Quarantine infected and sanitized email&lt;/li&gt;&lt;/ul&gt;&lt;h3 id=&quot;PoCMetaDefender/Email(v4)-DeploymentOptions&quot;&gt;&lt;span class=&quot;inline-comment-marker&quot; data-ref=&quot;2e7e6343-727c-47b0-95b5-c5c67b53046a&quot;&gt;Deployment Options&lt;/span&gt;&lt;/h3&gt;&lt;h4 id=&quot;PoCMetaDefender/Email(v4)-MailProxyDeployment(Generic)&quot;&gt;&lt;span class=&quot;inline-comment-marker&quot; data-ref=&quot;2e7e6343-727c-47b0-95b5-c5c67b53046a&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/148327624/%5BEMAIL4%5D+3.8+Mail+proxy+deployment+configuration&quot; data-linked-resource-id=&quot;148327624&quot; data-linked-resource-version=&quot;12&quot; data-linked-resource-type=&quot;page&quot;&gt;Mail Proxy Deployment (Generic)&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;error&quot;&gt;Error rendering macro 'excerpt-include' : No link could be created for '[EMAIL4] 3.8 Mail proxy deployment configuration'.&lt;/div&gt;&lt;h4 id=&quot;PoCMetaDefender/Email(v4)-CloudDeployment&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/148328233/%5BEMAIL4%5D+3.9+Cloud+deployment+configuration&quot; data-linked-resource-id=&quot;148328233&quot; data-linked-resource-version=&quot;14&quot; data-linked-resource-type=&quot;page&quot;&gt;Cloud Deployment&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;error&quot;&gt;Error rendering macro 'excerpt-include' : No link could be created for '[EMAIL4] 3.9 Cloud deployment configuration'.&lt;/div&gt;&lt;h4 id=&quot;PoCMetaDefender/Email(v4)-OnsiteMicrosoftExchangeDeployment&quot;&gt;&lt;a href=&quot;/wiki/spaces/MDM/pages/148328764/%5BEMAIL4%5D+3.10+Onsite+Microsoft+Exchange+deployment&quot; data-linked-resource-id=&quot;148328764&quot; data-linked-resource-version=&quot;21&quot; data-linked-resource-type=&quot;page&quot;&gt;Onsite Microsoft Exchange Deployment&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;error&quot;&gt;Error rendering macro 'excerpt-include' : No link could be created for '[EMAIL4] 3.10 Onsite Microsoft Exchange deployment'.&lt;/div&gt;&lt;h3 id=&quot;PoCMetaDefender/Email(v4)-MetaDefenderEmailGatewaySecurityasmailproxy&quot;&gt;MetaDefender Email Gateway Security as mail proxy&lt;/h3&gt;&lt;p&gt;MetaDefender &lt;strong&gt;does not&lt;/strong&gt; incorporate or include the following functionalities:&lt;/p&gt;&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;Replace email gateway&amp;#160;&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;for spam filtering&lt;/li&gt;&lt;li&gt;for NDR based on email validation although we can validate syntactically and mark failed to deliver.&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Replace mail server&lt;ul style=&quot;list-style-type: square;&quot;&gt;&lt;li&gt;user-based quarantine&lt;/li&gt;&lt;li&gt;user authentication based on email address (e.g, active directory)&amp;#160;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+&lt;h2&gt;Attachments&lt;/h2&gt;&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;attachments/1360103597_attachments_Presentation%20Diagrams-05.png&quot;&gt;1360103597_attachments_Presentation Diagrams-05.png&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;attachments/1360103597_attachments_Presentation%20Diagrams-06.png&quot;&gt;1360103597_attachments_Presentation Diagrams-06.png&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;attachments/1360103597_attachments_Presentation%20Diagrams-04.png&quot;&gt;1360103597_attachments_Presentation Diagrams-04.png&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><summary type="html">PoC MetaDefender / Email (v4) PoC MetaDefender / Email (v4) About This GuideThis guide is intended to provide the information you need to:Install, configure, and manage MetaDefender Email Gateway Security v4.x.MetaDefender Email v3 users When using MetaDefender Email v3, refer to MetaDefender Email v3 user guide. In case of migrating from MetaDefender Email v3 to MetaDefender Email Gateway Security v4 see [EMAIL4] 2.5 Migrating from MetaDefender Email v3.Learn about new and updated features, and bug fixes on each MetaDefender Email Gateway Security release (i.e. each product version's release notes).Learn about frequently asked questions and additional concepts through our library of knowledge base articles.While we offer the option to download this guide to a PDF file, it is optimized for online browser viewing. OPSWAT updates the online version of the guide regularly on an &quot;as needed&quot; basis. &amp;#160;By viewing the document online, you are assured that you are always seeing the most recent and most comprehensive version of the guide.About MetaDefender Email Gateway SecuritySecond Layer of Defense for Your Email Security GatewayEmail security gateways, although offering tremendous&amp;#160;protection, are&amp;#160;not perfect. MetaDefender Email Gateway Security enhances existing email security gateways by offering additional protection with more than 30 anti-malware engines (leveraging both heuristics and signature-based detection) and&amp;#160;Deep Content Disarm and Reconstruction (Deep CDR) to combat increasingly popular document-based or image-based attacks.&amp;#160;Key FeaturesPrevent with email sanitization&amp;#160;using&amp;#160;Deep Content Disarm and Reconstruction (Deep CDR)Detect and prevent more threats by scanning with&amp;#160;more than&amp;#160;30 leading anti-malware enginesPrevent potential data breaches using&amp;#160;Proactive Data Loss Prevention (Proactive&amp;#160;DLP)Leverage&amp;#160;heuristic&amp;#160;analysis to detect more unknown and targeted attacksDecrease detection time of outbreaksEasily integrate with existing email security layerReal-time monitoring threats&amp;#160;Real-time alert and monitoringSchedule reportHigh performanceQuarantine infected and sanitized emailDeployment OptionsMail Proxy Deployment (Generic)Error rendering macro 'excerpt-include' : No link could be created for '[EMAIL4] 3.8 Mail proxy deployment configuration'.Cloud DeploymentError rendering macro 'excerpt-include' : No link could be created for '[EMAIL4] 3.9 Cloud deployment configuration'.Onsite Microsoft Exchange DeploymentError rendering macro 'excerpt-include' : No link could be created for '[EMAIL4] 3.10 Onsite Microsoft Exchange deployment'.MetaDefender Email Gateway Security as mail proxyMetaDefender does not incorporate or include the following functionalities:Replace email gateway&amp;#160;for spam filteringfor NDR based on email validation although we can validate syntactically and mark failed to deliver.&amp;#160;Replace mail serveruser-based quarantineuser authentication based on email address (e.g, active directory)&amp;#160;</summary></entry><entry><title type="html">Online Help Poc Home</title><link href="http://localhost:4000/0202/11/17/Online-Help-PoC-Home.html" rel="alternate" type="text/html" title="Online Help Poc Home" /><published>0202-11-17T00:00:48+01:44</published><updated>0202-11-17T00:00:48+01:44</updated><id>http://localhost:4000/0202/11/17/Online-Help-PoC-Home</id><content type="html" xml:base="http://localhost:4000/0202/11/17/Online-Help-PoC-Home.html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;Online Help PoC Home&lt;/title&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;Online Help PoC Home&lt;/h1&gt;
+&lt;div&gt;&lt;div class=&quot;confluence-information-macro confluence-information-macro-tip conf-macro output-block&quot; data-hasbody=&quot;true&quot; data-macro-name=&quot;tip&quot; data-macro-id=&quot;f12cb885-f6bd-4f23-87bd-b18914372d00&quot;&gt;&lt;span class=&quot;aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro-icon&quot;&gt; &lt;/span&gt;&lt;div class=&quot;confluence-information-macro-body&quot;&gt;
+    &lt;h3 id=&quot;OnlineHelpPoCHome-Welcometoyournewspace&quot;&gt;&lt;strong&gt;Welcome to your new space&lt;/strong&gt;&lt;/h3&gt;
+    &lt;p&gt;Use it to create something wonderful.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;To start, you might want to:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Customise this overview&lt;/strong&gt;&amp;#160;using the&amp;#160;&lt;strong&gt;edit icon&lt;/strong&gt;&amp;#160;at the top right of this page.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Create a new page&lt;/strong&gt;&amp;#160;by clicking the&amp;#160;&lt;strong&gt;+&lt;/strong&gt;&amp;#160;in the space sidebar, then go ahead and fill it with plans, ideas, or anything else your heart desires.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class=&quot;confluence-information-macro confluence-information-macro-information conf-macro output-block&quot; data-hasbody=&quot;true&quot; data-macro-name=&quot;info&quot; data-macro-id=&quot;63ccf45c-9ad2-49f9-afa4-9fd0da897cb9&quot;&gt;&lt;span class=&quot;aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon&quot;&gt; &lt;/span&gt;&lt;div class=&quot;confluence-information-macro-body&quot;&gt;
+    &lt;h6 id=&quot;OnlineHelpPoCHome-Needinspiration?&quot;&gt;Need inspiration?&lt;/h6&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Get a quick intro into what spaces are, and how to best use them at&amp;#160;&lt;a href=&quot;https://www.atlassian.com/collaboration/confluence-organize-work-in-spaces&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;Confluence 101: organize your work in spaces.&lt;/a&gt; &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Check out our guide for ideas on how to&amp;#160;&lt;a href=&quot;https://confluence.atlassian.com/confcloud/set-up-your-space-homepage-827106219.html&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;set up your space overview&lt;/a&gt;. &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;If starting from a blank space is daunting, try using one of the&lt;a href=&quot;https://confluence.atlassian.com/display/ConfCloud/Create+a+Space+From+a+Template&quot; class=&quot;external-link&quot; rel=&quot;nofollow&quot;&gt;&amp;#160;space templates&lt;/a&gt;&amp;#160;instead.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;h2&gt;Attachments&lt;/h2&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><summary type="html">Online Help PoC Home Online Help PoC Home Welcome to your new space Use it to create something wonderful. To start, you might want to: Customise this overview&amp;#160;using the&amp;#160;edit icon&amp;#160;at the top right of this page. Create a new page&amp;#160;by clicking the&amp;#160;+&amp;#160;in the space sidebar, then go ahead and fill it with plans, ideas, or anything else your heart desires. Need inspiration? Get a quick intro into what spaces are, and how to best use them at&amp;#160;Confluence 101: organize your work in spaces. Check out our guide for ideas on how to&amp;#160;set up your space overview. If starting from a blank space is daunting, try using one of the&amp;#160;space templates&amp;#160;instead.</summary></entry></feed>
